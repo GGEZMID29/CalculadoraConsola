@@ -1,0 +1,14 @@
+c:\Users\javentura\MiAppParaRepo\bin\Debug\net8.0\MiAppParaRepo.exe
+c:\Users\javentura\MiAppParaRepo\bin\Debug\net8.0\MiAppParaRepo.deps.json
+c:\Users\javentura\MiAppParaRepo\bin\Debug\net8.0\MiAppParaRepo.runtimeconfig.json
+c:\Users\javentura\MiAppParaRepo\bin\Debug\net8.0\MiAppParaRepo.dll
+c:\Users\javentura\MiAppParaRepo\bin\Debug\net8.0\MiAppParaRepo.pdb
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.AssemblyInfoInputs.cache
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.AssemblyInfo.cs
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.csproj.CoreCompileInputs.cache
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.dll
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\refint\MiAppParaRepo.dll
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.pdb
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\MiAppParaRepo.genruntimeconfig.cache
+c:\Users\javentura\MiAppParaRepo\obj\Debug\net8.0\ref\MiAppParaRepo.dll
